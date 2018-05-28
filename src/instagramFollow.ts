@@ -1,4 +1,4 @@
-class InstaFollow {
+class InstagramFollow {
 	private ulList: HTMLElement;
 	private scrollContainer: HTMLElement;
 	private allButtons: HTMLElement[];
